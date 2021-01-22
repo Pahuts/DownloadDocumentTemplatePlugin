@@ -1,0 +1,24 @@
+D:\Desktop-\SamplePlugin\SamplePlugin\bin\Debug\SamplePlugin.dll
+D:\Desktop-\SamplePlugin\SamplePlugin\bin\Debug\SamplePlugin.pdb
+D:\Desktop-\SamplePlugin\SamplePlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Desktop-\SamplePlugin\SamplePlugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Desktop-\SamplePlugin\SamplePlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\Desktop-\SamplePlugin\SamplePlugin\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\Desktop-\SamplePlugin\SamplePlugin\obj\Debug\SamplePlugin.csprojAssemblyReference.cache
+D:\Desktop-\SamplePlugin\SamplePlugin\obj\Debug\SamplePlugin.csproj.CoreCompileInputs.cache
+D:\Desktop-\SamplePlugin\SamplePlugin\obj\Debug\SamplePlugin.csproj.CopyComplete
+D:\Desktop-\SamplePlugin\SamplePlugin\obj\Debug\SamplePlugin.dll
+D:\Desktop-\SamplePlugin\SamplePlugin\obj\Debug\SamplePlugin.pdb
+D:\Documents\Ronald\Plugins\Sample Plugin\SamplePlugin\bin\Debug\SamplePlugin.dll
+D:\Documents\Ronald\Plugins\Sample Plugin\SamplePlugin\bin\Debug\SamplePlugin.pdb
+D:\Documents\Ronald\Plugins\Sample Plugin\SamplePlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Documents\Ronald\Plugins\Sample Plugin\SamplePlugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Documents\Ronald\Plugins\Sample Plugin\SamplePlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\Documents\Ronald\Plugins\Sample Plugin\SamplePlugin\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\Documents\Ronald\Plugins\Sample Plugin\SamplePlugin\obj\Debug\SamplePlugin.csprojAssemblyReference.cache
+D:\Documents\Ronald\Plugins\Sample Plugin\SamplePlugin\obj\Debug\SamplePlugin.csproj.CoreCompileInputs.cache
+D:\Documents\Ronald\Plugins\Sample Plugin\SamplePlugin\obj\Debug\SamplePlugin.csproj.CopyComplete
+D:\Documents\Ronald\Plugins\Sample Plugin\SamplePlugin\obj\Debug\SamplePlugin.dll
+D:\Documents\Ronald\Plugins\Sample Plugin\SamplePlugin\obj\Debug\SamplePlugin.pdb
+D:\Documents\Ronald\Plugins\Sample Plugin\SamplePlugin\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Ronald\Plugins\Sample Plugin\SamplePlugin\bin\Debug\Newtonsoft.Json.xml
